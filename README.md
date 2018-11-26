@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/henrizwols/zwolssandbox/_apis/build/status/henri055.pipelines-java)](https://dev.azure.com/henrizwols/zwolssandbox/_build/latest?definitionId=1)
 
 # Contributing
 
